@@ -1,0 +1,28 @@
+{
+  "name": "vue-ahoy",
+  "version": "1.0.0",
+  "description": "Plugin that allows to use Ahoy.js for Vue.js applications",
+  "main": "src/vue-ahoy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DeKoyre/vue-ahoy.git"
+  },
+  "keywords": [
+    "vue",
+    "vue.js",
+    "ahoy",
+    "ahoy.js"
+  ],
+  "author": "DeKoyre <dekoyre@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeKoyre/vue-ahoy/issues"
+  },
+  "homepage": "https://github.com/DeKoyre/vue-ahoy#readme",
+  "dependencies": {
+    "ahoy.js": "^0.3.3"
+  }
+}
